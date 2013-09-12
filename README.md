@@ -1,12 +1,12 @@
-Will become a heading
+Paulo's research on Git and GitHub
 ==============
 
-Will become a sub heading
+Develop
 --------------
+- Keep an organized version history
+- Socialize with other developers
 
-*This will be Italic*
-
-**This will be Bold**
-
-- This will be a list item
-- This will be a list item
+Write
+--------------
+- Keep an organized version history
+- Socialize with other writers and editors
